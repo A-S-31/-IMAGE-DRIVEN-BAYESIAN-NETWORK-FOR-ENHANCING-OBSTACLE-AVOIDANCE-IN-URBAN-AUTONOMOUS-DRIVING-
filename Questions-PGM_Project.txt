@@ -1,0 +1,5 @@
+Questions
+1. Do we have to include the car decision parameters or nodes in Bayesian network based on the external environment parameters?
+2. what nodes/Parameters are included in making an concrete idea of the stray cattle movement?
+Standing, laying, doing some activity
+3. How are the hidden Markov models used inside this?
